@@ -7,9 +7,9 @@
         {
             "name": "Debug Android Hermes - Experimental",
             "request": "launch",
-            "type": "reactnative",
+            "type": "reactnativedirect",
             "cwd": "${workspaceFolder}",
-            "platform": "android",
+            "platform": "android"
         }
     ]
 }
